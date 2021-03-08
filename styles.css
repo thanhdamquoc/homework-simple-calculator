@@ -1,0 +1,28 @@
+.calc-table {
+    border: 5px solid black;
+    width: 250px;
+}
+.output-screen {
+    border: 1px solid gray;
+    color: blue;
+    font-weight: bold;
+    font-size: medium;
+    text-align: right;
+}
+.button-row {
+    height: 50px;
+}
+button {
+    height: 40px;
+    width: 45px;
+    color: blue;
+    font-weight: bold;
+    font-size: medium;
+    border: 2px solid gray;
+}
+.output-row {
+    height: 30px;
+}
+td {
+    text-align: center;
+}
